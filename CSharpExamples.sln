@@ -4,6 +4,11 @@ VisualStudioVersion = 17.10.35027.167
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpExamples.Records", "CSharpExamples.Records\CSharpExamples.Records.csproj", "{2A16C70E-22C3-4861-B3CC-E5DBBA058EA6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{72F9A0C2-6ED4-4B81-BF00-1025B4A014F6}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {06E653CE-0380-4848-8C3B-D50C4A584B4A}
